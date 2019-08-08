@@ -1,0 +1,21 @@
+{
+    "short_name": "YN",
+    "name": "Yes Nails",
+    "icons": [
+      {
+        "src": "/assets/Logo-192x192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/assets/Logo-512x512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "/index.html",
+    "background_color": "black",
+    "display": "standalone",
+    "theme_color": "black"
+  }
+  
